@@ -1,7 +1,8 @@
-# Project name: Task Manager
+## Project name: 
+# Task Manager
 
 ## Project Description
-This program allows a use to manage their tasks.
+This program allows a user to manage their tasks.
 Program has been refactored from an initial simple task management system, incorporating new features.
 
 ## Initial Features
@@ -15,7 +16,7 @@ Program has been refactored from an initial simple task management system, incor
 
 ## Updated Features
 * Task assignment.
-* Editing tasks, allowing user to mark as complete, reassign task or alter due date.
+* Editing tasks, allowing user to mark tasks as complete, reassign task or alter due date.
 * Generating task and user overview reports.
 * Readability improved by moving existing functionality from main body to a set of functions.
 * Comprehensive documentation.
